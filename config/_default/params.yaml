@@ -10,7 +10,7 @@ hugoblox:
 
   theme:
     mode: system
-    pack: "default"
+    pack: "coffee"
     # Optional: Override theme pack colors
     colors:
       primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
