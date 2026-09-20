@@ -12,14 +12,9 @@ hugoblox:
     organization: "Bocconi University"
     type: person
     tagline: "PhD Student in Statistics and Computer Science"
-    description: "PhD student in Statistics and Computer Science at Bocconi University, working on Natural Language Processing, Large Language Models, trustworthy and personalized NLP, machine learning theory, algorithms, and optimization."  
+    description: "PhD student in Statistics and Computer Science at Bocconi University, working on Natural Language Processing, Large Language Models, trustworthy and personalized NLP, machine learning theory, algorithms, and optimization."
 
-  # ────────────────────────────────────────────────────────────────────────────
-  # THEME
-  # Color and visual design system
-  # ────────────────────────────────────────────────────────────────────────────
-  theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
+  theme:    # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
