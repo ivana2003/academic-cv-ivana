@@ -7,17 +7,12 @@
 hugoblox:
   schema: "2.0"
 
-  # ────────────────────────────────────────────────────────────────────────────
-  # IDENTITY
-  # Site-level branding (for people/profiles, use the author system in content/authors/)
-  # ────────────────────────────────────────────────────────────────────────────
   identity:
-  name: "Ivana Crescenzi"
-  organization: "Bocconi University"
-  type: person
-  tagline: "PhD Student in Statistics and Computer Science"
-  description: "PhD student in Statistics and Computer Science at Bocconi University, working on Natural Language Processing, Large Language Models, trustworthy and personalized NLP, machine learning theory, algorithms, and optimization."
-  
+    name: "Ivana Crescenzi"
+    organization: "Bocconi University"
+    type: person
+    tagline: "PhD Student in Statistics and Computer Science"
+    description: "PhD student in Statistics and Computer Science at Bocconi University, working on Natural Language Processing, Large Language Models, trustworthy and personalized NLP, machine learning theory, algorithms, and optimization."  
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
