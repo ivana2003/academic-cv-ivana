@@ -1,9 +1,3 @@
-# ══════════════════════════════════════════════════════════════════════════════
-# HUGO BLOX CONFIGURATION
-# Schema: hugoblox.com/schema/v2
-# Tutorial: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
 
@@ -14,9 +8,8 @@ hugoblox:
     tagline: "PhD Student in Statistics and Computer Science"
     description: "PhD student in Statistics and Computer Science at Bocconi University, working on Natural Language Processing, Large Language Models, trustworthy and personalized NLP, machine learning theory, algorithms, and optimization."
 
-  theme:    # Mode: 'light', 'dark', or 'system' (follows OS preference)
+  theme:
     mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
     colors:
