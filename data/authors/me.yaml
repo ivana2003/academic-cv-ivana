@@ -69,13 +69,14 @@ education:
 
 experience:
   - role: Research Assistant
-    org: NLP Lab, Bocconi University
+    org: Bocconi University
     start: 2025-10-01
     end: 2026-07-31
     summary: |
-      Research on multilingual and socially aware NLP, including humor detection,
-      harmful and reclaimed language detection, retrieval-augmented methods for
-      detecting misogyny, and the evaluation of large language models.
+      Research Assistant at the NLP Lab. Research on multilingual and socially aware NLP,
+      including humor detection, harmful and reclaimed language detection,
+      retrieval-augmented methods for detecting misogyny, and the evaluation
+      of large language models.
 
 skills:
   - name: Programming
@@ -142,9 +143,7 @@ languages:
     level: 3
     label: B1
 
-  - name: Chinese
-    level: 1
-    label: A1
+
 
 awards:
   - title: Dean's List
