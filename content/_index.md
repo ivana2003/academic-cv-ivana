@@ -16,7 +16,7 @@ sections:
 
       button:
         text: Download CV
-        url: /uploads/resume.pdf
+        url: /uploads/CV_Crescenzi_Ivana.pdf
 
       headings:
         about: About Me
