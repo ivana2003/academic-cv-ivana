@@ -16,7 +16,7 @@ sections:
 
       button:
         text: Download CV
-        url: /uploads/CV_Crescenzi_Ivana.pdf
+        url: https://ivana2003.github.io/academic-cv-ivana/uploads/CV_Crescenzi_Ivana.pdf
 
       headings:
         about: About Me
