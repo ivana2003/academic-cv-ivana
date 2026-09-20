@@ -40,6 +40,7 @@ sections:
   # RESEARCH
   # =========================================================
   - block: markdown
+    id: research
     content:
       title: 'Research'
       subtitle: ''
