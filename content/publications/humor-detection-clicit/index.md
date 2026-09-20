@@ -13,7 +13,7 @@ publication_types:
   - paper-conference
 
 publication:
-  name: "Proceedings of the Twelfth Italian Conference on Computational Linguistics"
+  name: "Proceedings of the Twelfth Italian Conference on Computational Linguistics (CLiC-it 2026)"
   short_name: "CLiC-it 2026"
 
 peer_reviewed: true
